@@ -1,0 +1,5 @@
+household_name,first_name,last_name,age_category,email,phone,notes
+Pat & Sam Smith,Pat,Smith,adult,smiths@example.com,555-0101,
+Pat & Sam Smith,Sam,Smith,adult,,,
+Pat & Sam Smith,Robin,Smith,child,,,
+Alex Nguyen,Alex,Nguyen,adult,,,Plus one still TBC
